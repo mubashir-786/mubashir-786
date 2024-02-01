@@ -13,3 +13,8 @@ I am Mubashir Raza
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,mongodb,express,js,ts,redux,bootstrap,materialui,tailwindcss,netlify,css,html)
 
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=mubashir-786)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
